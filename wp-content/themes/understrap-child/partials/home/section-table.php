@@ -2,10 +2,6 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <table>
-                    <tbody id="example"></tbody>
-                </table>
-
                 <table class="table table-striped table-bordered mt-5">
                     <thead>
                         <tr>
