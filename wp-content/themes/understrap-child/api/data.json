@@ -1,0 +1,75 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "admin1@yopmail.com",
+      "name": "admin1",
+      "surname1": "admin1FirstSurname",
+      "surname2": "admin1SecondSurname"
+    },
+    {
+      "id": 2,
+      "email": "admin2@yopmail.com",
+      "name": "admin2",
+      "first": "admin2First",
+      "surname1": "admin2FirstSurname",
+      "surname2": "admin2SecondSurname"
+    },
+    {
+      "id": 3,
+      "email": "admin3@yopmail.com",
+      "name": "admin3",
+      "surname1": "admin3FirstSurname",
+      "surname2": "admin3SecondSurname"
+    },
+    {
+      "id": 4,
+      "email": "admin4@yopmail.com",
+      "name": "admin4",
+      "surname1": "admin4FirstSurname",
+      "surname2": "admin4SecondSurname"
+    },
+    {
+      "id": 5,
+      "email": "admin5@yopmail.com",
+      "name": "admin5",
+      "surname1": "admin5FirstSurname",
+      "surname2": "admin5SecondSurname"
+    },
+    {
+      "id": 6,
+      "email": "admin6@yopmail.com",
+      "name": "admin6",
+      "surname1": "admin6FirstSurname",
+      "surname2": "admin6SecondSurname"
+    },
+    {
+      "id": 7,
+      "email": "admin7@yopmail.com",
+      "name": "admin7",
+      "surname1": "admin7FirstSurname",
+      "surname2": "admin7SecondSurname"
+    },
+    {
+      "id": 8,
+      "email": "admin8@yopmail.com",
+      "name": "admin8",
+      "surname1": "admin8FirstSurname",
+      "surname2": "admin8SecondSurname"
+    },
+    {
+      "id": 9,
+      "email": "admin9@yopmail.com",
+      "name": "admin9",
+      "surname1": "admin9FirstSurname",
+      "surname2": "admin9SecondSurname"
+    },
+    {
+      "id": 10,
+      "email": "admin10@yopmail.com",
+      "name": "admin10",
+      "surname1": "admin10FirstSurname",
+      "surname2": "admin10SecondSurname"
+    }
+  ]
+}
