@@ -99,7 +99,7 @@ function getDataAjax() {
 	for ($i = $startIndex; $i < $endIndex && $i < count($data["usuarios"]); $i++) {
 		$user = $data["usuarios"][$i];
 		echo "<tr><td>". $user["name"] . "</td> <td>" . $user["surname1"]. "</td> <td>". $user["surname2"]. "</td> <td>" . $user["email"] . "</td></tr>";
-	}≥
+	}
 
 	wp_send_json( $data );
 }
